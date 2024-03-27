@@ -1,2 +1,5 @@
-about.html
 extra.html
+#*.txt
+#*.java
+target2/subtarget/*.html
+#*target/
